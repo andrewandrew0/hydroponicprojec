@@ -1,0 +1,65 @@
+h1 {
+  font-family: "Major Mono Display", monospace;
+}
+p {
+  font-family: "Playfair Display", serif;
+}
+h3 {
+  font-family: "Playfair Display", serif;
+}
+li {
+  font-family: "Playfair Display", serif;
+}
+.submit-button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.bolding {
+  font-style: bold;
+}
+
+textarea {
+  resize: none;
+}
+textarea {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.coolimages {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a:hover {
+  color: blue;
+  background-color: transparent;
+}
+
+.submit-button:hover {
+  background-color: darkgreen;
+  color: black;
+}
+
+.qwerty {
+}
+
+.ccimage {
+  background-image: url("/image.png");
+}
